@@ -16,6 +16,7 @@ Azure <br/>
 
 Readed books :books: <br/>
 1. Robert C. Martin - Clean code <br/>
+2. Robert C. Martin - Clean architecture(in progress) <br/>
 
 📧 Connect with me: <br/>
 Telegram: @SHZ_Alex <br/>
