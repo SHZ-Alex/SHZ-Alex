@@ -1,5 +1,5 @@
 👋 Hi everyone! Welcome to my GitHub <br/>
-I'm Alexander, Development C# from Moscow 🏰 <br/>
+I'm Alexander, C# Developer from Moscow 🏰 <br/>
 Now I live in Kazakhstan <br/>
 Over 2 years of work in the position .Net Developer <br/>
 📄 Know about my experience - you can request me for CV by email/telegram <br/> <br/>
